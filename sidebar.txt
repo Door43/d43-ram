@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ram:home|Door43 (ram)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ram|d43-ram repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ram/archive/master.zip|d43-ram.zip]]
+
+**Recent Changes**
+{{changes>ns = ram}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ram|Ethnologue data]]
+
